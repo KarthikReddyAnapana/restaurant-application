@@ -1,0 +1,35 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.idea/
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Java / Maven
+**/target/
+**/build/
+
+# Node.js
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Local application data
+**/data/
+
+# Temporary files
+*.tmp
+*.temp
